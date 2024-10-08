@@ -1,0 +1,8 @@
+{
+    "data_name": "Swiss-EPFL", 
+    "scene_name": ["inPlace", "outPlace"],
+    "model_pth": "dataset/MODEL",
+    "blender_pth": "/home/ubuntu/blender-3.3.1-linux-x64/blender",
+    "interval": [0.5, 1, 2, 4, 8],
+    "if_save": false
+}
