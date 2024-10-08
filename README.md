@@ -59,7 +59,7 @@ The project is equipped with Pytorch==2.0.1 and Pytorch-Lightning==2.1.3.
 
 ### Downloading
 
-The datasets could be fould in [Baidu Disk link](https://pan.baidu.com/s/1v3GCkjJiyrD-z72fWB_D2g?pwd=vx2a)(Extract Code:vx2a). The data should be places in `./dataset/${data_name}$` directory and the arrangement is shown as:
+The datasets could be fould in [Baidu Disk link](https://pan.baidu.com/s/1v3GCkjJiyrD-z72fWB_D2g?pwd=vx2a)(Extract Code:vx2a). The data should be placed in `./dataset/${data_name}$` directory and the arrangement is shown as:
 
 <details>
 <summary>[Dataset Arrangement]</summary>
@@ -130,7 +130,7 @@ MODEL
 </details>
 
 
-* [Optional] We also provide the process for extracting or generating priors for a reference:
+* [Optional] We also provide the process of extracting or generating priors for a reference:
 
 ```bash
 # Extract the sensor priors from UAVD4L-LoD dataset
@@ -144,7 +144,7 @@ python ./script/Generate_priors.py --GT_folder ${GT_pose_dir}$ --save_folder ${p
 
 * NOTE 2: In order to protect privacy, the center point of the model in UAVD4L-LoD dataset is hidden. Please use the Sensor Priors downloaded from the web disk directly.
 
-* NOTE 3: The UAV query data of Swiss-EPFL has been set up by [CrossLoc](https://github.com/TOPO-EPFL/CrossLoc-Benchmark-Datasets) project, please refer to the project for more details or original data.
+* NOTE 3: The UAV query data of Swiss-EPFL has been set up by [CrossLoc](https://github.com/TOPO-EPFL/CrossLoc-Benchmark-Datasets) project, and please refer to the project for more details or original data.
 
 * NOTE 4: The Swiss-EPFL LoD model is processed, and the processing code can be found at `./script/trans_obj_coor.py`. For raw LoD data, please find [Swisstopo](https://www.swisstopo.admin.ch/en/landscape-model-swissbuildings3d-3-0-beta) website to download.
 
@@ -285,7 +285,7 @@ python -m maploc.evaluation.evaluation_Swiss \
 
 ## Acknowledgement
 
-[LoD-Loc](https://xxx) takes the [Orienternet](https://arxiv.org/pdf/2304.02009.pdf) as its code backbone. Thanks to Paul-Edouard Sarlin for opening source of his excellent work and his PyTorch implementation [Orienternet](https://github.com/facebookresearch/OrienterNet). Thanks to Qi Yan for opening source of his excellent work [CrossLoc](https://github.com/TOPO-EPFL/CrossLoc-Benchmark-Datasets).
+[LoD-Loc](https://xxx) takes the [Orienternet](https://arxiv.org/pdf/2304.02009.pdf) as its code backbone. Thanks to Paul-Edouard Sarlin for the opening source of his excellent work and his PyTorch implementation [Orienternet](https://github.com/facebookresearch/OrienterNet). Thanks to Qi Yan for opening source of his excellent work [CrossLoc](https://github.com/TOPO-EPFL/CrossLoc-Benchmark-Datasets).
 
 ## BibTex citation
 
