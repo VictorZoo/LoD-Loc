@@ -157,7 +157,7 @@ To get dataset for a specific scene, run the following:
 python ./script/data_proccess.py  --config_file=./config/UAV_preprocess.json
 ```
 
-The details of `./config/.json` file:
+The details of `./config/*.json` file:
 
 ```
 "data_name"           # the dataset name
