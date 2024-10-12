@@ -16,7 +16,7 @@
   <h2 align="center">NeurIPS 2024</h2>
 
   <h3 align="center">
-    <a href="https://xxxx">Project Page</a>
+    <a href="[https://xxxx](https://victorzoo.github.io/LoD-Loc.github.io/)">Project Page</a>
     | <a href="https://xxxx">Paper(coming soon)</a> 
     | <a href="./demo.ipynb">Demo</a>
   </h3>
