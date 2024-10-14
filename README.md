@@ -9,9 +9,9 @@
     ·
     <h>Shengyue&nbsp;Zhang</h>
     ·
-    <h>Maojun&nbsp;Zhang</h>
+    <h>Yu&nbsp;Liu</h>
     ·
-    <h>Yu&nbsp; Liu</h>
+    <h>Maojun&nbsp; Zhang</h>
   </p>
   <h2 align="center">NeurIPS 2024</h2>
 
