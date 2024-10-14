@@ -296,8 +296,8 @@ Please consider citing our work if you use any code from this repo or ideas pres
                Shen Yan and
                Long Wang and
                Shengyue Zhang and
-               Maojun Zhang and
-               Yu Liu},
+               Yu Liu and
+               Maojun Zhang},
   title     = {{LoD-Loc: Visual Localization using LoD 3D Map with Neural Wireframe Alignment}},
   booktitle = {NeurIPS},
   year      = {2024},
