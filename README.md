@@ -17,7 +17,7 @@
 
   <h3 align="center">
     <a href="https://victorzoo.github.io/LoD-Loc.github.io/">Project Page</a>
-    | <a href="[https://xxxx](https://arxiv.org/abs/2410.12269)">Paper</a> 
+    | <a href="[Paper](https://arxiv.org/abs/2410.12269)">Paper</a> 
     | <a href="./demo.ipynb">Demo</a>
   </h3>
   <div align="center"></div>
