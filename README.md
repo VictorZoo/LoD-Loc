@@ -210,7 +210,7 @@ python -m maploc.evaluation.evaluation_LoD_Loc \
     --experiment ${exp_dir}$/checkpoint-step=40000.ckpt
 ```
 
-For the proposed works, the checkpoints (.ckpt) can be found in Baidu DISK(coming soon). To get the results of the paper, set the .ckpt in `./experiments/reproduce` run the following code:
+For the proposed works, the checkpoints (.ckpt) can be found in [ckpt](https://pan.baidu.com/s/1t7ClaEyYIe2ITPdJBnE2Aw?pwd=ms8d). To get the results of the paper, set the .ckpt in `./experiments/reproduce` run the following code:
 
 #### For UAVD4L-LoD:
 
