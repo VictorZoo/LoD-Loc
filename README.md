@@ -285,7 +285,7 @@ python -m maploc.evaluation.evaluation_Swiss \
 
 ## Acknowledgement
 
-[LoD-Loc](https://xxx) takes the [Orienternet](https://arxiv.org/pdf/2304.02009.pdf) as its code backbone. Thanks to Paul-Edouard Sarlin for the opening source of his excellent work and his PyTorch implementation [Orienternet](https://github.com/facebookresearch/OrienterNet). Thanks to Qi Yan for opening source of his excellent work [CrossLoc](https://github.com/TOPO-EPFL/CrossLoc-Benchmark-Datasets).
+[LoD-Loc](https://xxx) takes the [Orienternet](https://arxiv.org/pdf/2304.02009.pdf) as its code backbone. Thanks to Paul-Edouard Sarlin for the opening source of his excellent work and his PyTorch implementation [Orienternet](https://github.com/facebookresearch/OrienterNet). Thanks to Qi Yan for the opening source of his excellent work [CrossLoc](https://github.com/TOPO-EPFL/CrossLoc-Benchmark-Datasets). Thanks to Rouwan Wu for the opening source of her datasets [UAVD4L]([https://github.com/TOPO-EPFL/CrossLoc-Benchmark-Datasets](https://github.com/RingoWRW/UAVD4L))
 
 ## BibTex citation
 
