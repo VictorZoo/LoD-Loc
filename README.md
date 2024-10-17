@@ -291,15 +291,12 @@ python -m maploc.evaluation.evaluation_Swiss \
 
 Please consider citing our work if you use any code from this repo or ideas presented in the paper:
 ```
-@inproceedings{
-  author    = {Juelin Zhu and
-               Shen Yan and
-               Long Wang and
-               Shengyue Zhang and
-               Yu Liu and
-               Maojun Zhang},
-  title     = {{LoD-Loc: Visual Localization using LoD 3D Map with Neural Wireframe Alignment}},
-  booktitle = {NeurIPS},
-  year      = {2024},
+@misc{zhu2024lodlocaerialvisuallocalization,
+      title={LoD-Loc: Aerial Visual Localization using LoD 3D Map with Neural Wireframe Alignment}, 
+      author={Juelin Zhu and Shen Yan and Long Wang and Shengyue Zhang and Yu Liu and Maojun Zhang},
+      year={2024},
+      eprint={2410.12269},
+      archivePrefix={arXiv},
+      url={https://arxiv.org/abs/2410.12269}, 
 }
 ```
