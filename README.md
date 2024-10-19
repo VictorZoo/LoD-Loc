@@ -165,7 +165,7 @@ The details of `./config/*.json` file:
 "model_pth"           # the directory of .obj and .blend files
 "blender_pth"         # the local executable program of BLENDER
 "interval"            # sampling interval list for wireframe points
-"if_save"             # whether visulize the projected wireframe images or not;
+"if_save"             # whether visualize the projected wireframe images or not;
 ```
 
 
