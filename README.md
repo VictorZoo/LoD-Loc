@@ -59,7 +59,7 @@ The project is equipped with Pytorch==2.0.1 and Pytorch-Lightning==2.1.3.
 
 ### Downloading
 
-The datasets could be found in [Baidu Disk link](https://pan.baidu.com/s/1v3GCkjJiyrD-z72fWB_D2g?pwd=vx2a)(Extract Code:vx2a). The data should be placed in `./dataset/${data_name}$` directory and the arrangement is shown as:
+The datasets could be found in [Baidu Disk link](https://pan.baidu.com/s/1gWNEMkMiAwS-NuO5s4_UAw?pwd=j1pf)(Extract Code:j1pf). The data should be placed in `./dataset/${data_name}$` directory and the arrangement is shown as:
 
 <details>
 <summary>[Dataset Arrangement]</summary>
