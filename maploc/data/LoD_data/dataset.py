@@ -21,7 +21,7 @@ from omegaconf import DictConfig, OmegaConf
 
 from ... import logger, DATASETS_PATH
 from ..dataset import LoDLocDataset
-from ..sequential import chunk_sequence
+
 from ..torch import collate, worker_init_fn
 from .utils import qvec2rotmat
 from scipy.spatial.transform import Rotation as Rota
