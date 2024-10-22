@@ -1,0 +1,12 @@
+name: DEMO
+scenes:
+  - demo
+split: ./split/UAV_demo_test.json
+loading:
+  val:
+    batch_size: 1
+    num_workers: ${.batch_size}
+    num_sample: 2000
+    if_save: true
+    interval: 1
+resize_image: [480, 512]

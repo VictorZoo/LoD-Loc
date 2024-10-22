@@ -1,0 +1,18 @@
+defaults:
+  - data: UAVD4L-LoD
+  - training
+  - _self_
+model:
+  name: LoD_Loc
+  lamb : [1.5,1.0,0.5]
+  lamb_val: [0.8,0.8,0.8]
+  stage_configs : [64, 32, 8]
+  feat_ext_ch : 8
+  num_sample: [[13, 13, 13, 13],[7, 7, 7, 7],[3, 3, 3, 3]] 
+  num_sample_val : [[8, 10, 10, 30],[8, 10, 10, 30],[8, 10, 10, 30]]
+  error_ranges : [[-7.5, 7.5], [-10, 10], [-10, 10], [-30, 30]] 
+  loss_weight: [0.5, 1.0, 1.5]
+  confidence: false 
+  save_pth: null
+  refine: true
+  loss_id: softmax

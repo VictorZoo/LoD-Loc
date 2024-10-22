@@ -1,0 +1,18 @@
+name: UAVD4L-LoD
+scenes:
+  - Synthesis
+split: UAV_train_sample.json
+loading:
+  train:
+    batch_size:  12
+    num_workers: ${.batch_size}
+    num_sample: 2000
+  val:
+    batch_size: ${..train.batch_size}
+    num_workers: ${.batch_size}
+    num_sample: 2000
+    if_save: true
+    interval: 1
+resize_image: [480, 512] 
+augmentation:
+  image: {apply: True}

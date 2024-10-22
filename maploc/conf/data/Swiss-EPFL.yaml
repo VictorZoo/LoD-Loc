@@ -1,0 +1,20 @@
+name: Swiss-EPFL
+scenes:
+  - Synthesis
+  - outPlace
+  - inPlace
+split: train.json
+loading:
+  train:
+    batch_size:  14
+    num_workers: ${.batch_size}
+    num_sample: 2000
+  val:
+    batch_size: ${..train.batch_size}
+    num_workers: ${.batch_size}
+    num_sample: 2000
+    if_save: false
+resize_image: [480, 720]
+augmentation:
+  image: {apply: false}
+
