@@ -220,7 +220,7 @@ For the proposed works, the checkpoints (.ckpt) can be found in [ckpt](https://p
 *inTraj*
 ```bash
 python -m maploc.evaluation.evaluation_UAVD4L \
-          --experiment reproduce/UAV.ckpt \
+            --experiment reproduce/UAV.ckpt \
             model.name='LoD_Loc' \
             data.split=./split/UAV_inTraj_test.json \
             data.name='UAVD4L-LoD' \
