@@ -17,7 +17,7 @@
 
   <h3 align="center">
     <a href="https://victorzoo.github.io/LoD-Loc.github.io/">Project Page</a>
-    | <a href="https://arxiv.org/abs/2410.12269">Paper</a> 
+    | <a href="https://openreview.net/forum?id=PqlKliEXyJ">Paper</a> 
     | <a href="./demo.ipynb">Demo</a>
   </h3>
   <div align="center"></div>
@@ -291,12 +291,12 @@ python -m maploc.evaluation.evaluation_Swiss \
 
 Please consider citing our work if you use any code from this repo or ideas presented in the paper:
 ```
-@misc{zhu2024lodlocaerialvisuallocalization,
-      title={LoD-Loc: Aerial Visual Localization using LoD 3D Map with Neural Wireframe Alignment}, 
-      author={Juelin Zhu and Shen Yan and Long Wang and Shengyue Zhang and Yu Liu and Maojun Zhang},
-      year={2024},
-      eprint={2410.12269},
-      archivePrefix={arXiv},
-      url={https://arxiv.org/abs/2410.12269}, 
+@inproceedings{
+zhu2024lodloc,
+title={LoD-Loc: Aerial Visual Localization using LoD 3D Map with Neural Wireframe Alignment},
+author={Juelin Zhu and Shen Yan and Long Wang and zhang shengYue and Yu Liu and Maojun Zhang},
+booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
+year={2024},
+url={https://openreview.net/forum?id=PqlKliEXyJ}
 }
 ```
