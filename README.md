@@ -292,14 +292,14 @@ python -m maploc.evaluation.evaluation_Swiss \
 Please consider citing our work if you use any code from this repo or ideas presented in the paper:
 ```
 @inproceedings{NEURIPS2024_d78ece66,
- author = {Zhu, Juelin and Yan, Shen and Wang, Long and shengYue, zhang and Liu, Yu and Zhang, Maojun},
- booktitle = {Advances in Neural Information Processing Systems},
- editor = {A. Globerson and L. Mackey and D. Belgrave and A. Fan and U. Paquet and J. Tomczak and C. Zhang},
- pages = {119063--119098},
- publisher = {Curran Associates, Inc.},
- title = {LoD-Loc: Aerial Visual Localization using LoD 3D Map with Neural Wireframe Alignment},
- url = {https://proceedings.neurips.cc/paper_files/paper/2024/file/d78ece6613953f46501b958b7bb4582f-Paper-Conference.pdf},
- volume = {37},
- year = {2024}
+ author={Zhu, Juelin and Yan, Shen and Wang, Long and shengYue, zhang and Liu, Yu and Zhang, Maojun},
+ booktitle={Advances in Neural Information Processing Systems},
+ editor={A. Globerson and L. Mackey and D. Belgrave and A. Fan and U. Paquet and J. Tomczak and C. Zhang},
+ pages={119063--119098},
+ publisher={Curran Associates, Inc.},
+ title={LoD-Loc: Aerial Visual Localization using LoD 3D Map with Neural Wireframe Alignment},
+ url={https://proceedings.neurips.cc/paper_files/paper/2024/file/d78ece6613953f46501b958b7bb4582f-Paper-Conference.pdf},
+ volume={37},
+ year={2024}
 }
 ```
