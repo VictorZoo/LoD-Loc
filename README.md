@@ -204,9 +204,9 @@ By default the data is written to the directory `./datasets/${data_name}$/`. The
 
 ```bash
 # the best checkpoint:
-python -m maploc.evaluation.evaluation_LoD_Loc --experiment ${exp_dir}$
+python -m maploc.evaluation.evaluation_${name}$ --experiment ${exp_dir}$
 # a specific checkpoint:
-python -m maploc.evaluation.evaluation_LoD_Loc \
+python -m maploc.evaluation.evaluation_${name}$ \
     --experiment ${exp_dir}$/checkpoint-step=40000.ckpt
 ```
 
