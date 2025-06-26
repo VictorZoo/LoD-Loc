@@ -2,7 +2,7 @@
   <h1 align="center"><ins>LoD-Loc</ins>:<br>Visual Localization using LoD 3D Map with Neural Wireframe Alignment</h1>
   <p align="center">
     <h>Juelin&nbsp;Zhu</h>
-    ·More actions
+    ·
     <h>Shen&nbsp;Yan</h>
     ·
     <h>Long&nbsp;Wang</h>
