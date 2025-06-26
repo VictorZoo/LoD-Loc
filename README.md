@@ -1,4 +1,4 @@
-<p align="center">More actions
+<p align="center">
   <h1 align="center"><ins>LoD-Loc</ins>:<br>Visual Localization using LoD 3D Map with Neural Wireframe Alignment</h1>
   <p align="center">
     <h>Juelin&nbsp;Zhu</h>
