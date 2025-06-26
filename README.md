@@ -9,23 +9,22 @@
     ·
     <h>Shengyue&nbsp;Zhang</h>
     ·
+    <h>Hanlin&nbsp;Tan</h>
+    ·
     <h>Yu&nbsp;Liu</h>
     ·
     <h>Maojun&nbsp; Zhang</h>
+    ·
+    <h>Shen&nbsp; Yan</h>
   </p>
-  <h2 align="center">NeurIPS 2024</h2>
+  <h2 align="center">ICCV 2025</h2>
 
   <h3 align="center">
-    <a href="https://victorzoo.github.io/LoD-Loc.github.io/">Project Page</a>
-    | <a href="https://openreview.net/forum?id=PqlKliEXyJ">Paper</a> 
-    | <a href="./demo.ipynb">Demo</a>
+    <a href="xxx">Project Page</a>
+    | <a href="xxx">Paper</a> 
+    | <a href="xxx">Demo</a>
   </h3>
   <div align="center"></div>
-</p>
-<p align="center">
-    <a href="assets/intro.png"><img src="assets/intro.png" alt="teaser" width="100%"></a>
-    <br>
-    <em>LoD-Loc tackles visual localization w.r.t a scene represented as LoD 3D map. Given a query image and its pose prior, the method utilizes the wireframe of LoD models to recover the camera pose.</em>
 </p>
 
 This repository is an implementation of the paper "LoD-Loc: Visual Localization using LoD 3D Map with Neural Wireframe Alignment", a research project by Virtual Reality and Computer Vision Lab, National University of Defense Thechnology. LoD-Loc, a novel approach tailored for visual localization in LoD 3D city maps, takes a query image with its sensor priors (i.e., GPS, gravity and compass) as input, and estimates the 6-DoF pose of a drone in flight. The core idea is that if the pose is solved correctly, the network-predicted building wireframes can align with those projected from the LoD 3D model.
