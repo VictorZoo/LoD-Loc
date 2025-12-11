@@ -17,7 +17,7 @@
 
   <h3 align="center">
     <a href="https://victorzoo.github.io/LoD-Loc.github.io/">Project Page</a>
-    | <a href="https://openreview.net/forum?id=PqlKliEXyJ">Paper</a> 
+    | <a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/d78ece6613953f46501b958b7bb4582f-Abstract-Conference.html">Paper</a> 
     | <a href="./demo.ipynb">Demo</a>
   </h3>
   <div align="center"></div>
